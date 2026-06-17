@@ -1,0 +1,18 @@
+{
+  "id": "freddie-fit-os-s26-ultra",
+  "name": "Freddie Fit OS — Galaxy S26 Ultra",
+  "short_name": "Freddie Fit",
+  "description": "Freddie's private 12-week kettlebell, calisthenics, resistance-band and longevity training app, optimized for Samsung Galaxy S26 Ultra.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "background_color": "#0b101a",
+  "theme_color": "#0f1420",
+  "orientation": "portrait-primary",
+  "categories": ["fitness", "health", "lifestyle"],
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
